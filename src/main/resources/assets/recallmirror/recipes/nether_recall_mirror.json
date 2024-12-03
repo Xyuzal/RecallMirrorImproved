@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "F#F",
+        "#G#",
+        "F#F"
+    ],
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:netherbrick",
+            "data": 0
+        },
+        
+        "G":
+        {
+            "item": "recallmirror:recall_mirror",
+            "data": 0
+        },
+        
+        "F":
+        {
+            "item": "minecraft:diamond",
+            "data": 0
+        }
+    },
+    
+    "result": {
+        "item": "recallmirror:nether_recall_mirror",
+        "data": 0,
+        "count": 1
+    }
+}

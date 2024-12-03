@@ -1,0 +1,16 @@
+[
+{
+  "modid": "recallmirror",
+  "name": "Recall Mirror",
+  "description": "A mod that adds three ways of teleporting around. Based on Terraria's Magic Mirror. The scrolls are from Path of Exile.",
+  "version": "1.3.2",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/GodGMN/RecallMirror",
+  "updateUrl": "",
+  "authorList": ["GodGMN"],
+  "credits": "Big thanks to the Minecraft Mod Development discord server who helped me a LOT, specially Commoble, Upcraft, Paul Fulham, Silk, JTK222, TelepathicGrunt, Tslat and DarkCow",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
