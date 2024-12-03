@@ -53,7 +53,7 @@ This item teleports you to your bed or world spawn. Infinite uses.
 
 * Completely removed the Block of Literal Shit.
 * Removed unused classes.
-* Items are now useable in the Nether.
+* Items are now useable in all dimension.
 
 **Version 1.3.1**
 
